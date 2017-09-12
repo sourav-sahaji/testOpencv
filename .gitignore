@@ -1,0 +1,12 @@
+*.o
+*.cmake
+*.make
+*.bin
+*.out
+*~
+*.mp4
+*.log
+*.cbp
+*.internal
+*.includecache
+*build/*
